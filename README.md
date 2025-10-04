@@ -4,9 +4,9 @@
 
 1. **Download the source code**
 
-2. **Install Python dependencies**  
+2. **Install Python library (evdev)**  
    ```bash
-   pip install -r requirements.txt
+   pip install evdev
 
 3. **Add to startup**
 
